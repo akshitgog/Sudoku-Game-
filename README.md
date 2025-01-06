@@ -17,5 +17,4 @@ A Java-based Sudoku game developed as part of a college project. This project de
 -> Graphical User Interface (GUI) for a better gaming experience.     
 -> Save and load puzzle states.      
 
-**Author**      
-Developed by Akshit as part of a college project. Contributions and feedback are welcome!
+\
